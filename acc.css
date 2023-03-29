@@ -1,0 +1,46 @@
+nav {
+    color: rgb(255, 251, 0) font-family: sans-serif;
+    font-weight: bold;
+}
+
+nav a {
+    color: rgb(255, 255, 0);
+}
+
+.dropdown-item {
+    color: rgb(255, 255, 0);
+    font-family: sans-serif;
+    background-color: black;
+    padding: 5;
+    height: auto;
+}
+
+.dropdown-menu : {
+    color: :blank
+}
+
+.navbar-expand-lg {
+    color: rgb(255, 255, 0);
+    border:  1px solid rgb(255, 255, 0);
+}
+
+.nav-link {
+    color: rgb(255, 255, 0)
+}
+
+.img-acc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+    color: rgb(255, 255, 0);
+}
+.div2 {
+    color: rgb(255, 255, 0);
+    border: 1px solid rgb(255, 255, 0);
+    justify-content: center;
+    text-align: center;
+}
